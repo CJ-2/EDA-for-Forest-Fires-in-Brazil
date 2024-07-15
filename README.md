@@ -1,1 +1,1 @@
-# EEDA-for-Forest-Fires-in-Brazil
+# EDA-for-Forest-Fires-in-Brazil
